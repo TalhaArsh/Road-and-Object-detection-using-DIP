@@ -103,9 +103,3 @@ For a frame with detected lanes and an obstacle:
 - Implement machine learning (e.g., CNNs) for more robust obstacle detection.
 - Optimize for real-time performance on lower-end hardware.
 - Add logging for decision history and performance metrics.
-
-## License
-MIT License. See `LICENSE` for details (if applicable).
-
-## Contact
-For questions or contributions, contact [Your Name] at [Your Email].
